@@ -8,10 +8,11 @@
   });
   console.log(result);*/
 
-/*const numbers = [1, 2, 3, 3, 5];
+const numbers = [1, 2, 3, 3, 5];
  let final = numbers.map(function(val)
 {
   return val * 2;
+
 }) 
 
 console.log(final);*/
